@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkQueriesHometaskC#", "LinkQueriesHometaskC#\LinkQueriesHometaskC#.csproj", "{FC27A4CA-49B2-406E-A365-883423506D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC27A4CA-49B2-406E-A365-883423506D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC27A4CA-49B2-406E-A365-883423506D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC27A4CA-49B2-406E-A365-883423506D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC27A4CA-49B2-406E-A365-883423506D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD282891-333F-4E54-B91B-7E7173694946}
+	EndGlobalSection
+EndGlobal
